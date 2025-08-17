@@ -1,0 +1,33 @@
+{
+  "paths": [
+    "/admin", "/admin/login", "/admin.php", "/administrator", "/login", "/user/login",
+    "/wp-login.php", "/wp-admin", "/cpanel", "/dashboard", "/member", "/auth", "/backend", "/secure",
+
+    "/backup", "/backup.zip", "/backup.tar.gz", "/website_backup.zip", "/config.php",
+    "/config.bak", "/config.old", "/database.sql", "/db.sql", "/.env", "/.git/config",
+    "/.svn/entries", "/.DS_Store", "/.htpasswd", "/.htaccess", "/web.config",
+
+    "/wp-content", "/wp-includes", "/xmlrpc.php", "/wp-json",
+    "/templates", "/components", "/includes", "/language",
+    "/sites/default/settings.php", "/misc", "/core",
+    "/index.php/admin", "/downloader", "/errors",
+
+    "/test", "/test.php", "/test.html", "/dev", "/dev.php", "/staging", "/qa",
+    "/debug", "/info.php", "/phpinfo.php", "/server-status", "/version",
+
+    "/robots.txt", "/sitemap.xml", "/humans.txt", "/security.txt",
+    "/README", "/README.md", "/CHANGELOG", "/LICENSE",
+
+    "/cgi-bin", "/tmp", "/temp", "/uploads", "/files", "/assets",
+    "/logs", "/private", "/data", "/export", "/downloads",
+
+    "/?debug=true", "/?test=true", "/?q=", "/?id=", "/index.php?page=",
+    "/index.php?id=", "/product.php?id=",
+
+    "/storage/logs/laravel.log", "/rails/info/routes", "/rails/mailers",
+    "/debug", "/api", "/status", "/admin",
+
+    "/.git", "/.gitignore", "/.circleci/config.yml", "/.travis.yml",
+    "/Dockerfile", "/docker-compose.yml", "/package.json", "/yarn.lock", "/webpack.config.js"
+  ]
+}
